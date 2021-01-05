@@ -108,6 +108,8 @@ This is a complete web development resource you need to build your next project.
 - [Good Code](https://moeminm.github.io/goodcode/) - Browse through dozens of front end coding challenges, complete with Adobe XD files and styleguides.
 - [codier](https://codier.io) - Explore and attempt front-end coding challenges.
 - [CSSBattle](https://cssbattle.dev) - CSS code-golfing is here! Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.
+- [HackerRank](https://www.hackerrank.com/) - A platform for practicing coding skills, preparing for job interviews and getting hired simultaneously.
+- [Codewars](http://codewars.com/) - Solve simple to complex coding challenges in your favorite language and rise through the ranks.
 
 ### 🖋 FONTS AND TYPOGRAPHY
 
@@ -260,6 +262,7 @@ This is a complete web development resource you need to build your next project.
 - [JavaScript Info](https://javascript.info) - The Modern JavaScript Tutorial.
 - [Command Line Tutorial](https://dev.to/iamismile/command-line-tutorial-58km) - Basic UNIX commands tutorial.
 - [Try Git](https://try.github.io) - An interactive series of challenges to learn about and experiment with Git.
+
 
 ### 🧑 RESUME
 
