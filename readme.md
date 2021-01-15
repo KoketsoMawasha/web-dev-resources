@@ -256,6 +256,7 @@ This is a complete web development resource you need to build your next project.
 - [freeCodeCamp](https://www.w3schools.com) - Learn to code at home. Build projects. Earn certifications.
 - [w3schools](https://www.w3schools.com) - The world's largest Web Developer site. Tutorials references, examples, exercies, certificates.
 - [Codecademy](https://www.codecademy.com/) - Learn the technical skills you need for the job you want. As leaders in online education and learning to code.
+- [Tutorial Republic](https://www.tutorialrepublic.com/) - At tutorialrepublic.com you can learn the essentials of web development technologies from the basic to advanced topics, along with real life practice examples and useful references.
 - [Real Python](https://realpython.com) - Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more.
 - [Study Tonight](https://www.studytonight.com) - Best place to learn Engineering subjects like Core Java, C++, DBMS, Data Structures etc through Hand-written simple Tutorial, Tests, Video tutorials.
 - [Programiz](https://www.programiz.com) - Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.
